@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75f8bef3-2af4-4d04-9139-2fb683bff678" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/TodoApp/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Fastapi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/routers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/routers/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/routers/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/routers/todos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/routers/users.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/static/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/static/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/static/js/base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/static/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/static/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/static/js/jquery-slim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/static/js/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/static/js/popper.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/templates/add-todo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/templates/edit-todo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/templates/layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/templates/navbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/templates/todos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/testdb.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/todosapp.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testdb.db" beforeDir="false" afterPath="$PROJECT_DIR$/testdb.db" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Script" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3DJIKtNdr1U3GLKIb7Zxu74YMit" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ADMIN/Documents/Fastapi/TodoApp/static",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\Documents\Fastapi\TodoApp\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\Documents\FastAPI" />
+      <recent name="C:\Users\ADMIN\Documents\FastAPI\TodoApp" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-024ed6589d45-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.23567.174" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75f8bef3-2af4-4d04-9139-2fb683bff678" name="Changes" comment="" />
+      <created>1777993687001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777993687001</updated>
+      <workItem from="1777993690317" duration="2104000" />
+      <workItem from="1777999194784" duration="3569000" />
+      <workItem from="1778071062334" duration="6107000" />
+      <workItem from="1778082258694" duration="3657000" />
+      <workItem from="1778150870655" duration="3071000" />
+      <workItem from="1778607013620" duration="41000" />
+      <workItem from="1779003661691" duration="1104000" />
+      <workItem from="1779018610287" duration="18324000" />
+      <workItem from="1779122165470" duration="4368000" />
+      <workItem from="1779171731388" duration="8494000" />
+      <workItem from="1779249215155" duration="2975000" />
+      <workItem from="1779280933037" duration="7483000" />
+      <workItem from="1779293882219" duration="3564000" />
+      <workItem from="1779334689456" duration="2699000" />
+      <workItem from="1779343149727" duration="7488000" />
+      <workItem from="1779360110267" duration="5668000" />
+      <workItem from="1779373021360" duration="2630000" />
+      <workItem from="1779431687411" duration="2648000" />
+      <workItem from="1779460164720" duration="4255000" />
+      <workItem from="1779516505436" duration="8788000" />
+      <workItem from="1779600754443" duration="2602000" />
+      <workItem from="1779610424235" duration="2115000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
