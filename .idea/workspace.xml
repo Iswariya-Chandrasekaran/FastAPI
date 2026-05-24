@@ -2,41 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75f8bef3-2af4-4d04-9139-2fb683bff678" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/TodoApp/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Fastapi.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/database.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/routers/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/routers/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/routers/auth.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/routers/todos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/routers/users.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/static/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/static/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/static/js/base.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/static/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/static/js/bootstrap.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/static/js/jquery-slim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/static/js/popper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/static/js/popper.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/templates/add-todo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/templates/edit-todo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/templates/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/templates/layout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/templates/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/templates/navbar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/templates/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/templates/todos.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/testdb.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/todosapp.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testdb.db" beforeDir="false" afterPath="$PROJECT_DIR$/testdb.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Fastapi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,23 +37,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/ADMIN/Documents/Fastapi/TodoApp/static",
-    "list.type.of.created.stylesheet": "CSS",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ADMIN/Documents/Fastapi/TodoApp/static&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ADMIN\Documents\Fastapi\TodoApp\static" />
@@ -127,10 +99,22 @@
       <workItem from="1779516505436" duration="8788000" />
       <workItem from="1779600754443" duration="2602000" />
       <workItem from="1779610424235" duration="2115000" />
+      <workItem from="1779616109307" duration="669000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
